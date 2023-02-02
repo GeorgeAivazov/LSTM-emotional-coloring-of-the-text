@@ -1,1 +1,4 @@
-# repo1
+# LSTM emotional coloring of the text
+I've created the application that predict emotional coloring of the text.
+The model trained on IMDB Movie Reviews.
+
